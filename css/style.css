@@ -1,0 +1,26 @@
+*{
+	background-color: skyblue;
+}
+.s1{
+	text-align: center;
+	color: brown;
+	text-decoration: underline;
+
+}
+
+.s2{
+	font-size: 40px;
+	color: black;
+	width: 100%;
+	height: 50px;
+	background-color: red;
+	float: left;
+}
+#s3{
+	font-size: 40px;
+	color: red;
+	width: 100%;
+	height: 50px;
+	background-color: yellow;
+	float: left;
+}
